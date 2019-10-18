@@ -16,10 +16,6 @@ using namespace std;
 
 int showstack(stack <int>);
 
-class stk
-{
-	
-};
 int displayqueue( queue <int>);
 int displaystack( stack <int>);
 int main()
