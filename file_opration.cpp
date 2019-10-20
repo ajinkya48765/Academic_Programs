@@ -2,11 +2,6 @@
 #include<fstream>
 using namespace std;
 
-class file
-{
-
-};
-
 int main()
 {
 	char name[100];
