@@ -5,7 +5,7 @@ int main()
 {
 	int a[10];
 	int n;
-	int pass, temp;
+	int temp;
 	cout<<"Enter number of elements of array  :  ";
 	cin>>n;
 
